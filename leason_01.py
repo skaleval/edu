@@ -6,3 +6,6 @@ while True:
     print(count)
     count += 1
     time.sleep(1)
+
+# Def Count():
+    pass
